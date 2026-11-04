@@ -1,6 +1,6 @@
 ## Hi, I'm Anna
 
-Product-minded frontend developer in Dubai. I've spent 3+ years shipping production interfaces with React, Next.js and TypeScript, and I like owning a feature from the idea to production. I'm looking for product engineer roles.
+Product-minded frontend developer in Dubai. I've spent 4+ years shipping production interfaces with React, Next.js and TypeScript, and I like owning a feature from the idea to production. I'm looking for product engineer roles.
 
 ### What I've built
 
